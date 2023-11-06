@@ -148,6 +148,8 @@ Next.js provides 3 choices for selecting how to fetch data;
 
 - We can define Metadata in two ways: Static and Dynamic.
 
+---
+
 ### React Hook
 
 React Hook များသည် functional component တစ်ခုမှ ပြန်သုံးနိုင်သော အစိတ်အပိုင်းကို ခွဲထုတ်ရန် အသုံးပြုနိုင်သော JavaScript လုပ်ဆောင်ချက်များဖြစ်သည်။
